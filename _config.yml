@@ -1,4 +1,3 @@
-layout_spectrum: 0.13437150418758392
 typography_spectrum: 0.8818587581627071
 color:
   brandStrength: 0.8140259822830558
@@ -6,9 +5,15 @@ color:
   saturation: 0.630845840787515
   rhythmicContrast: 0.1549640311859548
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+layout_spectrum: 0.13437150418758392
+author:
+  name: Sherry Hamilton
+  email: eptworks2@gmail.com
+  url: www.eptworkshuntsville.com
 name: EPT Emotional Healthcare
+title: It's time for more imaginative initiatives in Emotional Healthcare.
