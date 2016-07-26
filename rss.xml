@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[It's time for more imaginative initiatives in Emotional Healthcare.]]></title>
         <description><![CDATA[It's time for more imaginative initiatives in Emotional Healthcare.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ept-emotional-healthcare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 16:06:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jul 2016 16:11:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ept-emotional-healthcare/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EPTworks Huntsville]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/677e54aa-44ec-41d4-994a-5d354a1e5b36.jpg">]]></description>
+            <link>http://eptworkshuntsville.com</link>
+            <guid isPermaLink="false">6926f5f2-b158-488a-991e-ae657dd037f8</guid>
+            <pubDate>Tue, 26 Jul 2016 16:10:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01836568-bd03-456f-b26d-94538c502d7a.jpg">]]></description>
