@@ -1,16 +1,16 @@
-typography_spectrum: 0.8818587581627071
+typography_spectrum: 0.5119509131181985
 color:
-  brandStrength: 0.8140259822830558
-  lightness: 0.1292074725497514
-  saturation: 0.630845840787515
-  rhythmicContrast: 0.1549640311859548
+  brandStrength: 0.6123680693563074
+  lightness: 0.09482890483923256
+  saturation: 0.7390921865589917
+  rhythmicContrast: 0.8181733002420515
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-layout_spectrum: 0.13437150418758392
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
+layout_spectrum: 0.7144998812582344
 author:
   name: Sherry Hamilton
   email: eptworks2@gmail.com
